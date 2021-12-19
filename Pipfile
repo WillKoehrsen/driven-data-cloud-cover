@@ -12,6 +12,13 @@ pandas-path = "*"
 jupyter = "*"
 pytorch-lightning = "*"
 jupyterlab = "*"
+matplotlib = "*"
+rasterio = "*"
+pyproj = "*"
+rioxarray = "*"
+xarray-spatial = "*"
+segmentation-models-pytorch = "*"
+pandas = "==1.2.5"
 
 [dev-packages]
 
