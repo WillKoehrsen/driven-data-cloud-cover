@@ -8,6 +8,10 @@ cloudpathlib = {extras = ["azure"], version = "*"}
 loguru = "*"
 tdqm = "*"
 typer = "*"
+pandas-path = "*"
+jupyter = "*"
+pytorch-lightning = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
