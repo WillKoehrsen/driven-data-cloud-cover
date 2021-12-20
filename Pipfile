@@ -19,6 +19,8 @@ rioxarray = "*"
 xarray-spatial = "*"
 segmentation-models-pytorch = "*"
 pandas = "==1.2.5"
+torch = "*"
+torchvision = "*"
 
 [dev-packages]
 
