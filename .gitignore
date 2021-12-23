@@ -3,3 +3,4 @@ sas*.txt
 data/*
 .ipynb_checkpoints/
 *logs*
+*.zip
